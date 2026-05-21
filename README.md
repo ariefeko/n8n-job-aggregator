@@ -1,4 +1,8 @@
-# 🤖 Job Aggregator — AI-Powered Daily Job Digest
+# 🤖 Job Aggregator V2 — AI-Powered Daily Job Digest
+
+Update:
+- Add Jobicy and Himalayas
+- Optimize AI Result
 
 An automated workflow built with **n8n** that aggregates remote job listings from multiple job boards, filters by tech stack, analyzes match percentage using **Groq AI**, and delivers a daily digest straight to **Telegram**.
 
